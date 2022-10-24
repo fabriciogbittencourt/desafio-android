@@ -44,7 +44,7 @@ header h1.titulo-cabecalho{
     font-size: 3em;
     color: white;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.263);
-    margin-bottom: 20px;
+    padding-bottom: 20px;
         
 }
 
